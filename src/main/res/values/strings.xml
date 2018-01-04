@@ -1,0 +1,5 @@
+<resources>
+    <!-- NetWorkHttpRequest -->
+    <string name="httpsdk_network_connect_fail">Internet error</string>
+
+</resources>
